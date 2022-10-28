@@ -1,1 +1,6 @@
 --개발 경력 소개--
+안녕하세요
+
+# main 브랜치에서 issue template 관련해서 수정하고, commit까지했음 (Github 상에서)
+# main 브랜치는 (깃허브 상) 더 최신
+#pull 받아와야함 -> pull도 하나의 merge
